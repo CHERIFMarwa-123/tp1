@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 
 hicham mounadi
 tounekti khaled
+||||||| merged common ancestors
+=======
+bonjourat
+>>>>>>> ba7d89021f33c2e72cbe714a66e7ce58824be87a
