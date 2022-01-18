@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -5,3 +6,7 @@
 
 
 hicham mounadi
+||||||| merged common ancestors
+=======
+tounekti khaled
+>>>>>>> 47627a6d2eb3d0deea3fceef3a5714cdfe73b12a
