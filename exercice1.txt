@@ -1,5 +1,16 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Mohamed skib
+=======
+
+
+
+
+
+
+hicham mounadi
+||||||| merged common ancestors
+>>>>>>> bbfefaf4e05ece15191fd0df01fded9fea8b5844
 =======
 tounekti khaled
 >>>>>>> 47627a6d2eb3d0deea3fceef3a5714cdfe73b12a
