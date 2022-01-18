@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 bonjour hichem
+=======
+hello
+>>>>>>> 15437e583da544d1d383e5741eee71a890ac52c7
